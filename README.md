@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Rafael
 
-<!--
-**RNunes69/RNunes69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+☕ **Java** | 🌱 **Spring Framework** | 🌐 **JavaScript** | HTML | CSS  
 
-Here are some ideas to get you started:
+📚 Atualmente:
+- Estudando **Java** e **Spring Framework** pela Alura
+- Praticando lógica de programação e POO
+- Desenvolvendo projetos práticos para consolidar conhecimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Repositórios:
+- **Estudos** → exercícios, testes e aprendizado
+- **Projects** → projetos práticos
+
+🎯 Objetivo:
+Atuar como **Desenvolvedor**, com foco em Back-end, evoluindo para Full Stack.
+
+📍 São Paulo, Brasil
