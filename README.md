@@ -5,6 +5,8 @@
 ☕ Java | 🌱 Spring Framework (em estudo) | 🌐 JavaScript | HTML | CSS  
 
 📚 Atualmente:
+
+- Atualmente focado em Spring Boot, APIs REST e fundamentos de banco de dados
 - Estudando Java e Spring Framework pela Alura
 - Praticando lógica de programação e POO
 - Desenvolvendo projetos práticos para consolidar conhecimento
